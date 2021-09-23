@@ -1,3 +1,5 @@
+/** By: Jetmir Halili */
+
 public class X0{
    protected String a[][];
    protected String w, won;
